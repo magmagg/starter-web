@@ -4,10 +4,11 @@
 # TEAM
 
     Mina cute onli
+    
 
 # THANKS
 
-    <name>
+    thanks tuwaisu
 
 # TECHNOLOGY COLOPHON
 
