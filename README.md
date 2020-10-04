@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 ## Nice
 
 # Added mina last time
+
+# Add thanks
